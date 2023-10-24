@@ -1,5 +1,7 @@
 # ecg-dicom-web-viewer
 
+This library is copied from https://github.com/ArturRod/ecg-dicom-web-viewer, we are currently using this as a node modue for the React Portal (24 Oct '23)
+
 This library allows viewing an ECG file in DICOM format in web view. </br>
 
 - NPM: https://www.npmjs.com/package/ecg-dicom-web-viewer
