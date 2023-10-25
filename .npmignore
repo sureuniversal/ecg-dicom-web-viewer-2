@@ -1,0 +1,10 @@
+## All Non-Dist Firectories
+src/
+example/
+.webpack/
+.github/
+
+## Root Files
+.gitignore
+tsconfig.json
+CONTRIBUTING.md
